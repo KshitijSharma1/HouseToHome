@@ -1,0 +1,22 @@
+[
+{
+        "Pid": "1",
+        "Name": "Dining Table",
+        "Price": "Rs. 20,000",
+        "Image": ""
+    },
+    {
+        
+        "Pid": "2",
+        "Name": "Beds",
+        "Price": "Rs. 30,000",
+        "Image": ""
+    },
+    {
+        "Pid": "3",
+        "Name": "Dining Table",
+        "Price": "Rs. 27,000",
+        "Image": ""
+    }
+}
+]

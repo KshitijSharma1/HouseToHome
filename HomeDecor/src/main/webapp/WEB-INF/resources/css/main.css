@@ -1,0 +1,41 @@
+.hero-slide{margin-top:45px;}
+ footer {
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding:30px;
+	 
+                     
+}
+.container-wrapper {
+    height:80%;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 300px;
+}
+ul.unstyled{
+	list-style: none;
+	padding: 0;
+
+	}
+	
+.well .page-header{
+	margin-top:0;
+}
+.well .page-header h2{
+	margin-top:0;
+}
+.well{
+	margin:20px 0;
+}
+
+#features{
+	text-align: center;
+}
+#features img{
+	margin: 0, 0, 20px;
+}
+.panel-heading{
+	background-color: #DCDCDC;
+}
+	
